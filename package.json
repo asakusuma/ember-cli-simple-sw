@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-generic-sw",
+  "name": "ember-cli-simple-sw",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [

@@ -1,11 +1,13 @@
-# ember-cli-generic-sw
+# ember-cli-simple-sw
 
-This README outlines the details of collaborating on this Ember addon.
+Adds a super basic service worker.
+
+Service worker itself is mostly copied from Mozilla's [Cache and Update](https://serviceworke.rs/strategy-cache-and-update.html) recipe.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-cli-generic-sw`
+* `cd ember-cli-simple-sw`
 * `npm install`
 * `bower install`
 
